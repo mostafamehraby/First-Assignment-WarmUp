@@ -94,6 +94,7 @@ public class Exercises {
         }
         return triangle ;
     }
+    
     public static void printTriangle(char[][]triangle) {
         for(char[] row : triangle){
             for(char c : row){
