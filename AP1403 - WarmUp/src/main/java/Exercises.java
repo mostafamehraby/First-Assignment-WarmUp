@@ -95,6 +95,7 @@ public class Exercises {
         return triangle ;
     }
     
+
     public static void printTriangle(char[][]triangle) {
         for(char[] row : triangle){
             for(char c : row){
@@ -103,6 +104,7 @@ public class Exercises {
             System.out.println();
         }
     }
+
 
     public static void main(String[] args) {
         // you can test your code here, but then it should be checked with test cases
@@ -114,3 +116,4 @@ public class Exercises {
         printTriangle(trianglenumber);
     }
 }
+
