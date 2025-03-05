@@ -105,7 +105,6 @@ public class Exercises {
         }
     }
 
-
     public static void main(String[] args) {
         // you can test your code here, but then it should be checked with test cases
         // start testing 
@@ -116,5 +115,3 @@ public class Exercises {
         printTriangle(trianglenumber);
     }
 }
-
-
